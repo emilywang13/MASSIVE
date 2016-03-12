@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/Massive">
+        <file>first.jpg</file>
+        <file>second.png</file>
+        <file>third.png</file>
+        <file>cake.jpg</file>
+        <file>enemy.png</file>
+        <file>mass.jpeg</file>
+        <file>enemymass.png</file>
+    </qresource>
+</RCC>

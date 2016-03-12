@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>song.mp3</file>
+        <file>foodsound.mp3</file>
+        <file>lost.mp3</file>
+    </qresource>
+</RCC>
